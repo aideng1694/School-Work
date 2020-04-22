@@ -12,4 +12,4 @@ Contact me via e-mail here: [aideng1694@yahoo.com](mailto:aideng1694@yahoo.com)
 
 ## Changelog
 
-Read the changelog [here (CHANGELOG.md)](./CHANGELOG.md)
+Read the changelog [CHANGELOG.md](./CHANGELOG.md)
